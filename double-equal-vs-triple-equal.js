@@ -15,3 +15,5 @@ if(first===second){
 else{
     console.log("condition is false");
 }
+//triple equal(===) check value and type
+//double equal(==) check just value
